@@ -1,0 +1,20 @@
+# Core data
+pandas>=1.5
+numpy>=1.24
+requests>=2.28
+tqdm>=4.64
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Geo libraries
+geopandas>=0.13
+fiona>=1.9
+pyproj>=3.6
+shapely>=2.0
+rtree>=1.0
+
+# Jupyter and Colab
+jupyterlab>=3.5
+google-colab>=2.0
