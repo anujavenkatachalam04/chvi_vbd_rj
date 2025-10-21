@@ -17,4 +17,3 @@ rtree>=1.0
 
 # Jupyter and Colab
 jupyterlab>=3.5
-google-colab>=2.0
