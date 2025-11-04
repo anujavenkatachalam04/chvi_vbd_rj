@@ -23,3 +23,9 @@ jupyterlab>=3.5
 requests_cache>=0.10
 python-dotenv>=1.0
 openmeteo-requests>=0.2
+
+# Modelling
+scikit-learn>=1.2
+scipy>=1.10
+xgboost>=1.7
+pykrige>=1.7
