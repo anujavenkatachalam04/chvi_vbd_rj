@@ -3,28 +3,18 @@ pandas>=1.5
 numpy>=1.24
 requests>=2.28
 tqdm>=4.64
-retry_requests>=0.2  # add version if needed
-
-# Visualization
+retry_requests>=0.2
 matplotlib>=3.7
 seaborn>=0.12
-
-# Geo libraries
 geopandas>=0.13
 fiona>=1.9
 pyproj>=3.6
 shapely>=2.0
 rtree>=1.0
-
-# Jupyter and Colab
 jupyterlab>=3.5
-
-# API handling
 requests_cache>=0.10
 python-dotenv>=1.0
 openmeteo-requests>=0.2
-
-# Modelling
 scikit-learn>=1.2
 scipy>=1.10
 xgboost>=1.7
