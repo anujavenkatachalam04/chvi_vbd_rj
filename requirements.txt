@@ -20,3 +20,4 @@ scipy>=1.10
 xgboost>=1.7
 pykrige>=1.7
 fuzzywuzzy>=0.18
+arcgis>=1.9.3
