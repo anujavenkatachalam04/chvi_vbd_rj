@@ -20,6 +20,7 @@ scipy>=1.10
 xgboost>=1.7
 pykrige>=1.7
 fuzzywuzzy>=0.18
+gstools>=1.8
 
 # Spatial analysis
 esda>=2.6
