@@ -23,3 +23,4 @@ fuzzywuzzy>=0.18
 arcgis>=1.9.3
 esda>=2.6
 libpysal>=4.6
+arcgis @ https://pypi.esri.com/simple/arcgis/arcgis-1.9.3-py3-none-any.whl
