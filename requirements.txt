@@ -1,6 +1,6 @@
 # Core data
 pandas>=1.5
-numpy==2.0
+numpy>=1.24
 requests>=2.28
 tqdm>=4.64
 retry_requests>=0.2
@@ -20,7 +20,10 @@ scipy>=1.10
 xgboost>=1.7
 pykrige>=1.7
 fuzzywuzzy>=0.18
-arcgis>=1.9.3
+
+# Spatial analysis
 esda>=2.6
 libpysal>=4.6
-arcgis @ https://pypi.esri.com/simple/arcgis/arcgis-1.9.3-py3-none-any.whl
+
+# ArcGIS API for Python (must use Esri's package index)
+arcgis @ https://pypi.esri.com/simple/arcgis/
