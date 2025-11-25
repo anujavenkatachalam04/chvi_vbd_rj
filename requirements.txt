@@ -25,6 +25,3 @@ gstools>=1.8
 # Spatial analysis
 esda>=2.6
 libpysal>=4.6
-
-# ArcGIS API for Python (must use Esri's package index)
-arcgis @ https://pypi.esri.com/simple/arcgis/
